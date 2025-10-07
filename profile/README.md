@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://path/to/your/logo.png" alt="Dedox Logo" width="150"/>
   <h1>Dedox: Decentralized Perpetual Futures & Spot Trading on Hedera</h1>
   <p>The ultimate high-performance, MEV-resistant DeFi platform built exclusively for the Hedera network.</p>
   

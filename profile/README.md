@@ -10,8 +10,8 @@
     <a href="https://t.me/kekatsuragi" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://github.com/dedoxfi/dedoxfi/blob/main/LICENSE" target="_blank">
-      <img src="https://img.shields.io/github/license/dedox-project/dedox?style=for-the-badge&color=blue" alt="License"/>
+    <a href="https://github.com/dedoxf" target="_blank">
+      <img src="https://img.shields.io/github/license/dedox/dedox?style=for-the-badge&color=blue" alt="License"/>
     </a>
   </p>
 </div>
